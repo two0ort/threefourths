@@ -14,4 +14,4 @@ for know, i only sketched up a small design of the device, figured out which com
 
 **Total time spent: 2h**
 
-[image1]: ./hardware/assets/journal-images/oct-09-26/image1.jpg
+[image1]: ./assets/journal-images/oct-09-26/image1.jpg
