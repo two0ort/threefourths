@@ -1,0 +1,16 @@
+Category,Item,Purpouse,Supplier,Quantity
+PCB,Assembled Custom PCB,Everything,JLCPCB,1
+Power,1000mAh LiFePO4,Electricity,BerryBase,1
+,CN3058E Module,Charger for the battery,JLCPCB,1
+,AMS1117-3.3V,Turns 3v2 into 3v3,JLCPCB,1
+Processor,ESP32-WROOM-32E,Processor,JLCPCB,1
+Data,MicroSD Card Module,Holds the data,JLCPCB,1
+,MicroSD Card,Is the data,Local Store,1
+Lighting,SK6812 LEDs,Makes light,JLCPCB,12
+Inputs,3-Pos. Switch,Batt-Charge-USB Mode,JLCPCB,1
+,Push Button,Control music,JLCPCB,5
+Passives,10k Resistor,Stability,JLCPCB,2
+,10mF Capacitor,Stability,JLCPCB,3
+,100nF Capacitor,Stability,JLCPCB,1
+,470mF Capacitor,Stability,JLCPCB,1
+Seperates,7v3 USB-UART Flasher,Flash the code,BerryBase,1
